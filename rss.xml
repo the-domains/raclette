@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Raclette]]></title>
+        <description><![CDATA[Raclette]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Jan 2016 13:41:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wer hat's erfunden]]></title>
+            <description><![CDATA[<article><h1>Wer hat's erfunden</h1><p>Léon - so die Legende - hiess der Walliser Winzer, der das Raclette erfunden hat. Er erwärmte an einem kalten Tag ein Stück Käse über dem offenen Holzfeuer, statt ihn roh zu essen. Geboren war das urtypische Walliser Gericht. das seither weit über die Landesgrenzen für Furore gesorgt hat. (quelle: http://www.walliserraclette.ch)</p></article>]]></description>
+            <link>undefinedwer-hats-erfunden/index.html</link>
+            <guid isPermaLink="false">a93079a3-ea69-4b53-a384-3aebfce9b2a7</guid>
+            <pubDate>Tue, 05 Jan 2016 13:41:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
