@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[Raclette]]></title>
         <description><![CDATA[Raclette]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/raclette/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 13:41:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jan 2016 17:00:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/raclette/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Richtig]]></title>
+            <description><![CDATA[<article><h1>Richtig</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a966a646cda3fc33c9c5d191f1d4f1af57c9419e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/raclette/richtig/index.html</link>
+            <guid isPermaLink="false">50932997-b001-49d2-8776-e61e6b451f8e</guid>
+            <pubDate>Tue, 05 Jan 2016 16:59:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Falsch]]></title>
+            <description><![CDATA[<article><h1>Falsch</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de22ec99-d29b-4cdf-b8e1-a2b7c25b6da1.jpg"></article>]]></description>
+            <link>https://thegrid.ai/raclette/falsch/index.html</link>
+            <guid isPermaLink="false">9c0c96c4-e764-4cae-9c16-2f5559041702</guid>
+            <pubDate>Tue, 05 Jan 2016 16:59:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wer hat's erfunden]]></title>
             <description><![CDATA[<article><h1>Wer hat's erfunden</h1><p>Léon - so die Legende - hiess der Walliser Winzer, der das Raclette erfunden hat. Er erwärmte an einem kalten Tag ein Stück Käse über dem offenen Holzfeuer, statt ihn roh zu essen. Geboren war das urtypische Walliser Gericht. das seither weit über die Landesgrenzen für Furore gesorgt hat. (quelle: http://www.walliserraclette.ch)</p></article>]]></description>
-            <link>undefinedwer-hats-erfunden/index.html</link>
+            <link>https://thegrid.ai/raclette/wer-hats-erfunden/index.html</link>
             <guid isPermaLink="false">a93079a3-ea69-4b53-a384-3aebfce9b2a7</guid>
             <pubDate>Tue, 05 Jan 2016 13:41:49 GMT</pubDate>
         </item>
